@@ -1,1 +1,3 @@
-# new-repo
+# new-rep
+
+Test respository for software workshop.
